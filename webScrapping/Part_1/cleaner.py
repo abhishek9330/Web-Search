@@ -5,7 +5,7 @@ with open("lc.txt", "r") as file:
     # Read each line one by one
     for line in file:
         # Process the line
-        arr.append(line)  # You can perform any operation on the line here
+        arr.append(line)  # You can perform any opersdjgfusgfuguiation on the line here
 
 
 def remove_elements_with_pattern(array, pattern):
